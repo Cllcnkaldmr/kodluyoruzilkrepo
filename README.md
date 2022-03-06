@@ -1,4 +1,4 @@
 # kodluyoruzilkrepo
 Kodluyoruz Egitimi kapsaminda actigim ilk repo
 
-![the image]("C:\Users\aldem\Desktop\kodluyoruzhw.jpg")
+![the image](https://ibb.co/P6KksJL)
